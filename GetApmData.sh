@@ -186,5 +186,6 @@ jvmCPUData &
 wait
 rm -f $USERPASSFILE $TMPFILE > /dev/null > /dev/null
 
+echo "All Good"
 exit 0
 
